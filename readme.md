@@ -439,6 +439,7 @@
 ### UI Frameworks
 
  - [elemental](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js.
+ - [react-fabric](https://github.com/react-fabric/react-fabric) - Office UI Fabric components built with React
  - [rctui](https://github.com/Lobos/react-ui) - A collection of components for React.
  - [belle](https://github.com/nikgraf/belle) - Configurable React Components with great UX.
  - [react-uikit-components](https://github.com/otissv/react-uikit-components) - React UIkit Components for the UIKit CSS framework.
